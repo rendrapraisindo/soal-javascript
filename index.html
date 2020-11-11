@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Javascript</title>
+    <style>
+        * {
+            border: 2px solid #dedede;
+            padding: 15px;
+            margin: 15px;
+        }
+        
+        html {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .nmg {
+            margin: 0;
+        }
+        
+        .npd {
+            padding: 0;
+        }
+        
+        .nbd {
+            border: none;
+        }
+        
+        body {
+            max-width: 800px;
+            margin: 30px auto;
+            font-family: sans-serif;
+            color: #333;
+        }
+        
+        .cbtn {
+            float: right;
+            padding: 0px;
+            margin: 0px 5px;
+            border: none;
+            font-size: small;
+        }
+        
+        #sec1 label,
+        #sec1 input {
+            padding: 10px 15px;
+        }
+        
+        #sec1 input[type=text] {
+            width: 400px;
+            border-radius: 10px;
+        }
+        
+        #sec1 input[type=button] {
+            width: 200px;
+            border-radius: 10px;
+        }
+        
+        #sec1 label {
+            width: 80px;
+            display: inline-block;
+        }
+        
+        #sec2 div {
+            border-radius: 10px;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Tugas Javascript</h1>
+    <section id="sec1">
+        <div class="nmg npd nbd">
+            <label for="itemtitle" class="nbd">Judul</label>
+            <input type="text" id="itemtitle" name="itemtitle">
+        </div>
+        <div class="nmg npd nbd">
+            <label for="itemlink" class="nbd">Link</label>
+            <input type="text" id="itemlink" name="itemlink">
+        </div>
+        <input type="button" value="Button">
+    </section>
+    <section id="sec2">
+        <div>Item 1
+            <div class="cbtn">Hapus</div>
+            <div class="cbtn">Edit</div>
+        </div>
+        <div>Item 2
+            <div class="cbtn">Hapus</div>
+            <div class="cbtn">Edit</div>
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+
+</html>
