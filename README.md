@@ -11,3 +11,6 @@ Repository ini berisi soal javascript.
 ## Tidak diperbolehkan
 * Tidak diperbolehkan menggunakan framework atau library javascript apapun (misal jquery)
 * Tidak diperbolehkan mengubah file index.html karena file itu tidak akan dikirim. File script.js anda harus kompatibel dengan index.html yang asli dan tidak diedit.
+
+## Penilaian
+Penilaian dilakukan dengan cara testing apakah feature-feature pada setiap video terpenuhi. Masing-masing item penilaian dapat memiliki bobot yang berbeda-beda. Item Penilaian beserta bobotnya dapat dilihat di [file Excel pada onedrive ini](https://1drv.ms/x/s!Ar1GB2-kgwK6wFz2g3Q-7JcgFCVu?e=OfRXG2)
