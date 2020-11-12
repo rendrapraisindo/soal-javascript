@@ -2,7 +2,7 @@
 Repository ini berisi soal javascript.
 ## Instruksi
 1. Download, Clone, atau Fork repository ini agar berada di laptop anda.
-2. Tonton soal di youtube
+2. Tonton soal di Youtube jika belum. [Klik disini](https://www.youtube.com/watch?v=05j6MsS-TcI)
 3. Buat agar halaman index.html, jika dibuka di browser chrome / firefox versi terakhir dapat menampilkan seperti pada video
 4. Kerjakan dengan cara edit file script.js
 5. Dilarang mengubah file index.html
